@@ -59,7 +59,7 @@ This project provides a **data-driven analysis** of British Airways' customer re
 This repository welcomes contributions! If you have ideas for improvements or additional analyses, feel free to create a pull request or open an issue.  
 
  **Connect with me on LinkedIn!** Let’s discuss more data-driven insights! just click on the link below 
- https://www.linkedin.com/in/aanu-adesemoye-51b7b477?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcMspgaQfRA23%2FvoO9twYNg%3D%3D
+ [Aanu Adesemoye](https://www.linkedin.com/in/aanu-adesemoye-51b7b477)
 
 
 Aanu Adesemoye
